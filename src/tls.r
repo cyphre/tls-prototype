@@ -2,6 +2,7 @@ REBOL [
 	title: "TLS 1.0 implementation prototype"
 	author: rights: "Richard 'cyphre' Smolak"
 	version: 0.0.8
+	license: 'MIT
 	todo: {
 		-cached sessions
 		-automagic cert data lookup
